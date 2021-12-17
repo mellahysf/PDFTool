@@ -17,7 +17,7 @@ Some of the services may use location information transmitted from users' mobile
 **Device Information** <br><br>
 We collect information from your device in some cases. The information will be utilized for the provision of better service and to prevent fraudulent acts. Additionally, such information will not include that which will identify the individual user.
 
-**Service Providers** <br><br>
+**Service Providers** <br><br> 
 We may employ third-party companies and individuals due to the following reasons:
 
 To facilitate our Service; 
@@ -35,7 +35,7 @@ This Services do not address anyone under the age of 13. We do not knowingly col
 **Changes to This Privacy Policy** <br><br>
 We may update our Privacy Policy from time to time. Thus, you are advised to review this page periodically for any changes. We will notify you of any changes by posting the new Privacy Policy on this page. These changes are effective immediately, after they are posted on this page.
 
-**Contact Us**
+**Contact Us** <br><br>
 If you have any questions or suggestions about our Privacy Policy, do not hesitate to contact us.
 Contact Information:
 Email: ysfmell@gmail.com
